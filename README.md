@@ -1,8 +1,8 @@
 ```console
 pragnesh@github:~$ whoami
-Backend engineer · Node.js · TypeScript · AWS
+Software Engineer · Backend Systems · Full-Stack · Cloud
 pragnesh@github:~$ status
-Building products people can actually use. Open to remote SDE2 backend roles.
+Building reliable products and systems people can actually use.
 ```
 
 # Hi, I'm Pragnesh
@@ -11,13 +11,9 @@ I work mostly on backend systems, APIs and real-time features. Node.js and TypeS
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 <strong>NOW</strong><br><br>
-Deepening AWS and system design while building and testing production-style projects.
-</td>
-<td width="50%" valign="top">
-<strong>LOOKING FOR</strong><br><br>
-Remote SDE2 backend work where reliability, product thinking and clean APIs matter.
+Deepening system design, cloud architecture and AI engineering while building and testing production-style products.
 </td>
 </tr>
 </table>
